@@ -1,3 +1,8 @@
+---
+title: This is my title
+layout: post
+---
+
 Hunting investigations should be SMART, and more over must have a scope and a terminating condition.
 Measurement can be simple success/fail (did we find it?) or the number of incidents and/or SIEM/IPS rules generated or updated.
 

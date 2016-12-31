@@ -1,0 +1,8 @@
+title: Prepubtest
+description: Testing, pre-pub, and staging content
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
